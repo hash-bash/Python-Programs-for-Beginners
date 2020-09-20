@@ -1,0 +1,15 @@
+Temp_List = ['Orange', 'Pineapple', 'Strawberry', 'Kiwi', 'Peach']
+
+print(Temp_List)
+Temp_List.append("Mango")
+print(Temp_List)
+Temp_List.insert(0, "Banana")
+print(Temp_List)
+Temp_List.remove("Banana")
+print(Temp_List)
+Temp_List.pop()
+print(Temp_List)
+Temp_List.sort()
+print(Temp_List)
+Temp_List.clear()
+print(Temp_List)
