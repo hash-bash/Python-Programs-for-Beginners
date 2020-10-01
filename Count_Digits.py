@@ -1,3 +1,4 @@
+'''program to count number of digits in a number'''
 def digits(n):
     count = 0
     if n == 0:
